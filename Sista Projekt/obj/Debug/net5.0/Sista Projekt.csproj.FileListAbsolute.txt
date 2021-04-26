@@ -1,0 +1,16 @@
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\Sista Projekt.exe
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\Sista Projekt.deps.json
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\Sista Projekt.runtimeconfig.json
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\Sista Projekt.runtimeconfig.dev.json
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\Sista Projekt.dll
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\ref\Sista Projekt.dll
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\bin\Debug\net5.0\Sista Projekt.pdb
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.csprojAssemblyReference.cache
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.AssemblyInfoInputs.cache
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.AssemblyInfo.cs
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.csproj.CoreCompileInputs.cache
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.dll
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\ref\Sista Projekt.dll
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.pdb
+C:\NTI 2020\programmering\Sista Projekt\Sista Projekt\obj\Debug\net5.0\Sista Projekt.genruntimeconfig.cache
